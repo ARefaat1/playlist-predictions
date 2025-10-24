@@ -1,0 +1,7 @@
+delete id
+track id
+track name
+track artist
+track_album_id
+track_album_name
+playlist_name
